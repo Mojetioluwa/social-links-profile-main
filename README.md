@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Mojetioluwa/social-links-profile-main)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://mojetioluwa.github.io/social-links-profile-main/)
 
 ## My process
 
